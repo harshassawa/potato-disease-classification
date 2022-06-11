@@ -71,7 +71,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed by Harsh Assawa & Videhi Bavishi</a></p>
+<p align="center"> <a href="">Developed by Harsh Assawa & Videhi Bavishi</a></p>
 </div>
         """
 
