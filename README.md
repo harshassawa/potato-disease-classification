@@ -70,9 +70,5 @@ https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-
   <img class="center" src ="/main/sample/potato.png" alt="Drawing" style="width: 1400px; height: 800px">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by Harsh</a>
-</p> 
-
 <!-- © 2021 Ronil Patil<br>
 [![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
