@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by Harsh</a>
 </p> 
 
 <!-- © 2021 Ronil Patil<br>
